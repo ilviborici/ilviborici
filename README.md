@@ -39,7 +39,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://svgshare.com/i/yrC.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://svgshare.com/i/yqf.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/D3vil0p3r/D3vil0p3r/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://svgshare.com/i/yqr.svg" />
 
 </picture>
 
