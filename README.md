@@ -15,11 +15,11 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 </br>
 
-<img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=0b5987">
-<img src="https://img.shields.io/badge/Code-Csharp-informational?style=flat&logo=Csharp&color=0c573f">
-<img src="https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=Rust&color=b30000">
-<img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=Cplusplus&color=2C5593">
-<img src="https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&color=003B57">
+<img src="https://img.shields.io/badge/Python-informational?style=flat&logo=Python&color=0b5987">
+<img src="https://img.shields.io/badge/CSharp-informational?style=flat&logo=Csharp&color=0c573f">
+<img src="https://img.shields.io/badge/Rust-informational?style=flat&logo=Rust&color=b30000">
+<img src="https://img.shields.io/badge/C++-informational?style=flat&logo=Cplusplus&color=2C5593">
+<img src="https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&color=003B57">
 
 </br>
 </br>
