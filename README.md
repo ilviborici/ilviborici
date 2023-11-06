@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ilviborici&color=6e57d2&style=for-the-badge"> 
+<!-- <img src="https://komarev.com/ghpvc/?username=ilviborici&color=6e57d2&style=for-the-badge"> -->
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ilviborici&show_icons=true&theme=dark"/>
 </br>
