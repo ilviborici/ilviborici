@@ -34,6 +34,8 @@
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="60">
+  
 </br>
 </br>
 </br>
