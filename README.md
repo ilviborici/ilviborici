@@ -39,12 +39,4 @@
 </br>
 </br>
 </br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://svgshare.com/i/yrC.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://svgshare.com/i/yqf.svg" />
-  <img src="https://raw.githubusercontent.com/0x-Stealth/0x-Stealth/output/snake.svg" alt="Snake animation" />
-    <img alt="github-snake" src="https://svgshare.com/i/yqr.svg" />
-    <img src="https://raw.githubusercontent.com/0x-Stealth/0x-Stealth/output/snake.svg" alt="Snake animation" />
-
-</picture>
 
