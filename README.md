@@ -13,8 +13,6 @@
 </br>
 
 <p align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
-</br>
 
 <img src="https://img.shields.io/badge/Python-informational?style=flat&logo=Python&color=0b5987">
 <img src="https://img.shields.io/badge/CSharp-informational?style=flat&logo=Csharp&color=0c573f">
