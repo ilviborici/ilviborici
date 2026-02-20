@@ -17,7 +17,6 @@
 <img src="https://img.shields.io/badge/Python-informational?style=flat&logo=Python&color=0b5987">
 <img src="https://img.shields.io/badge/CSharp-informational?style=flat&logo=Csharp&color=0c573f">
 <img src="https://img.shields.io/badge/Rust-informational?style=flat&logo=Rust&color=b30000">
-<img src="https://img.shields.io/badge/C++-informational?style=flat&logo=Cplusplus&color=2C5593">
 <img src="https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&color=003B57">
 
 </br>
